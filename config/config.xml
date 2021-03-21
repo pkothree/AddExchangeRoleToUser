@@ -1,0 +1,9 @@
+<Config>
+    <EXORole>Help Desk</EXORole>
+    <log>config\</log>
+    <csvinput>csvinput\csv1.csv</csvinput>
+    <delimiter>;</delimiter>
+    <eMailField>E-Mail</eMailField>
+    <givenname>Vorname</givenname>
+    <surname>Nachname</surname>
+</Config>
